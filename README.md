@@ -1,6 +1,6 @@
 # scraping-test
 
-Install dependencies in a virtualenv:
+Install dependencies in a virtualenv (only tested with python3):
 - `pip install requests`
 - `pip install beautifulsoup4`
 - `pip install humanize`
